@@ -1,0 +1,1 @@
+print("salyut salyut salyut sber")
