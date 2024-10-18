@@ -1,1 +1,1 @@
-# Marketing_Analytics Homework 1
+# Marketing Analytics Homework 1
